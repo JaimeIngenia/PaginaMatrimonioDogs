@@ -1,4 +1,4 @@
-import esposos from "../src/assets/images/espososCalvos.svg";
+import esposos from "../src/assets/images/esposos.svg";
 import Body from "./components/body/Body";
 import Footer from "./components/footer/Footer";
 
