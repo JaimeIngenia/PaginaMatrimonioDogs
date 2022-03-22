@@ -10,6 +10,7 @@ function App() {
       <img src={esposos} alt=""></img>
       <Body />
       <Footer />
+      {/* amor ya las historias están en un botón del body */}
     </div>
   );
 }
