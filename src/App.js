@@ -1,6 +1,7 @@
 import esposos from "../src/assets/images/esposos.svg";
 import Body from "./components/body/Body";
 import Footer from "./components/footer/Footer";
+import Historias from "./components/hisroeias/Historias";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <img src={esposos} alt=""></img>
       <Body />
       <Footer />
+      <Historias />
     </div>
   );
 }
