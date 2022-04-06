@@ -10,6 +10,8 @@ function App() {
       <img src={esposos} alt=""></img>
       <Body />
       <Footer />
+      <Body/>
+      <Historias/>
     </div>
   );
 }
